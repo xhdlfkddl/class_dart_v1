@@ -14,6 +14,7 @@ void main() {
   // var diceNum = DiceNum.one;
   int randomNum = random.nextInt(6) + 1;
 
+  /*
   switch(randomNum) {
     case randomNum = 1 :
       print(DiceNum.one);
@@ -36,5 +37,5 @@ void main() {
     default:
       print('몰라용ㅋ');
   }
-
+  */
 }
